@@ -15,7 +15,7 @@
 <br>
 <br>
 <div align="center">
-<img src="https://github.com/Marcus5390/Site-Mario/blob/main/img%20formulario.png?raw=true" alt="formulario"/ width="800px" >
+<img src="https://github.com/Marcus5390/Site-Mario/blob/main/img%20formulario.png?raw=true" alt="formulario" width="800px" />
 </div>
 <br>
 <br>
