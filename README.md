@@ -18,5 +18,6 @@
 <img src="https://github.com/Marcus5390/Site-Mario/blob/main/img%20formulario.png?raw=true" alt="formulario"/ width="800px" >
 </div>
 <br>
+<br>
 <h3 align="center" >Como dito acima, foi usado no projeto HTML para fazer a marcação dos itens, para estilização foi usado o CSS e para o formulário aparecer ao click no botão Fale Conosco foi usada a linguagem JAVASCRIPT.</h3>
 
